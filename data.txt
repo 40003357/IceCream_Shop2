@@ -1,0 +1,14 @@
+Ice cream orders:
+-----------------
+Item No: 1	 Chocolate	 Box ice cream ordered 	 10 quantity.	 Cost is Rs. 2150
+Item No: 2	 Vanilla	 Box ice cream ordered 	 10 quantity.	 Cost is Rs. 2050
+Customer Name: Mr/Mrs. Naga
+Total Bill Amount : Rs. 4200.0
+-----------------------------------------
+
+
+Item No: 1	 Chocolate	 Cup ice cream ordered 	 20 quantity.	 Cost is Rs. 800
+Customer Name: Mr/Mrs. Raj
+Total Bill Amount : Rs. 800.0
+-----------------------------------------
+
